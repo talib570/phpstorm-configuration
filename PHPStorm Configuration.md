@@ -22,9 +22,10 @@ To add a file header template, Navigate to `Settings > File and Code Template` a
 | Editor Tabs > Close All      | -      |   Ctrl+Shift+W |
 | Editor Tabs > Reopen Closed Tab | -      |    Ctrl+Shift+T |
 | Navigate > Jump To Navigation Bar | Alt+Home      |    Ctrl+Up |
+| Navigate > File | Ctrl+Shift+N      |    Ctrl+P |
 | Navigate > Symbol      | Ctrl+Alt+Shift+N | Ctrl+Shift+O |
 | View > Recent File      | Ctrl+E | Ctrl+Tab |
 | View > File Structure      | Ctrl+F12 | Ctrl+T |
-| Edit > Find > Replace      | C | Ctrl+Shift+O |
+| Edit > Find > Replace      | C | Ctrl+Shift+F |
 
 
