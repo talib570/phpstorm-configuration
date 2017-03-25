@@ -27,5 +27,6 @@ To add a file header template, Navigate to `Settings > File and Code Template` a
 | View > Recent File      | Ctrl+E | Ctrl+Tab |
 | View > File Structure      | Ctrl+F12 | Ctrl+T |
 | Edit > Find > Replace      | C | Ctrl+Shift+F |
+| Edit > Macros > Duplicate Line or Selection      | - | Ctrl+Shift+D |
 
 
